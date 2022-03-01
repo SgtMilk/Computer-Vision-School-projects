@@ -1,4 +1,3 @@
-# ECSE-415-projects
 Hi! In the following folders are my assignments in the Introduction to Computer Vision class.
 
 There were four assignments in this class and one project. The last assignment is incomplete (used libraries instead of implementing from scratch) because it was not worth any points.
